@@ -1,0 +1,33 @@
+---
+book_repo: pivotal-cf/docs-book-scdf-k8s
+layout_repo: pivotal-cf/docs-layout-repo
+
+feedback_enabled: true
+
+broken_link_exclusions: iefix|arrowhead
+repo_link_enabled: true
+
+public_host: docs.pivotal.io
+
+elastic_search: true
+
+sections:
+- repository:
+    name: pivotal-cf/docs-spring-cloud-dataflow-k8s
+    ref: "master"
+    at_path: docs-content
+  directory: scdf-k8s/0-1
+  subnav_template: scdf_k8s_0_1_subnav.erb
+  product_info:
+    use_local_header: true
+    latest_stable_version: '0.1'
+    changelog_href: http://docs.pivotal.io/scdf-k8s/0-1/release-notes.html
+    local_header_img: /images/cloud_rings.png
+    local_header_title: Spring Cloud Data Flow for Kubernetes
+    search_placeholder: Search SCDF for K8s 0.1
+    url_prefix: scdf-k8s/0-1
+    local_product_version: '0.1'
+    local_header_links: []
+    local_header_version_list:
+      - url_prefix: https://docs.pivotal.io/scdf/0-1
+        display_name: v0.1
