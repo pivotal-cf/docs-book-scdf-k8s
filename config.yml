@@ -29,5 +29,5 @@ sections:
     local_product_version: '0.1'
     local_header_links: []
     local_header_version_list:
-      - url_prefix: https://docs.pivotal.io/scdf/0-1
+      - url_prefix: https://docs.pivotal.io/scdf-k8s/0-1
         display_name: v0.1
