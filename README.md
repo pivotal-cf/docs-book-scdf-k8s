@@ -1,6 +1,6 @@
 # Pivotal Spring Cloud Data Flow for Kubernetes Documentation Book
 
-This project can create and publish the documentation for Pivotal SCDF for K8s as a web application.
+This project can be used to create and publish the documentation for Pivotal SCDF for K8s as a web application.
 
 In this topic:
 
