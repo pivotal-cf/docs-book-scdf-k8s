@@ -17,7 +17,7 @@ sections:
     name: pivotal-cf/docs-spring-cloud-dataflow-k8s
     ref: master
     at_path: docs-content
-  directory: scdf-k8s/1-1
+  directory: scdf-k8s/1-n
   subnav_template: scdf_k8s_1_1_subnav.erb
   product_info:
     use_local_header: true
