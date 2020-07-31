@@ -20,7 +20,7 @@ sections:
   subnav_template: scdf_k8s_1_1_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '1.1'
+    latest_stable_version: '1.0'
     changelog_href: http://docs.pivotal.io/scdf-k8s/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Spring Cloud Data Flow for Kubernetes
@@ -41,7 +41,7 @@ sections:
   subnav_template: scdf_k8s_1_0_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '1.1'
+    latest_stable_version: '1.0'
     changelog_href: http://docs.pivotal.io/scdf-k8s/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Spring Cloud Data Flow for Kubernetes
@@ -62,7 +62,7 @@ sections:
   subnav_template: scdf_k8s_0_1_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '1.1'
+    latest_stable_version: '1.0'
     changelog_href: http://docs.pivotal.io/scdf-k8s/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Spring Cloud Data Flow for Kubernetes
