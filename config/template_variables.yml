@@ -243,4 +243,10 @@ template_variables:
   scdf_img_stream_logs: stream-logs.png
   scdf_img_configure_relational_db: configure-relational.png
 
+  scdf_product: K8s
   scdf_platform: Kubernetes
+  scdf_registry_name: container registry
+  scdf_registry_first: Docker container registry
+  scdf_registry: Docker registry
+  scdf_image: container image
+  scdf_images: container images
