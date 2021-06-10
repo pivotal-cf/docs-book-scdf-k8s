@@ -244,6 +244,8 @@ template_variables:
   scdf_img_configure_relational_db: configure-relational.png
 
   scdf_product: K8s
+  scdf_product_full_name: VMware Spring Cloud® Data Flow for Kubernetes
+  scdf_product_short_name: SCDF for Kubernetes
   scdf_platform: Kubernetes
   scdf_registry_name: container registry
   scdf_registry_first: Docker container registry
