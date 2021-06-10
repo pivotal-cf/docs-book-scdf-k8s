@@ -252,3 +252,5 @@ template_variables:
   scdf_registry: Docker registry
   scdf_image: container image
   scdf_images: container images
+  scdf_tag: tag
+  scdf_tags: tags
